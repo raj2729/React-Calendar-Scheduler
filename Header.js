@@ -1,11 +1,7 @@
 import React from 'react'
 
 const Header = () => {
-  return (
-    <div className='header'>
-      <h1>Routine Manager</h1>
-    </div>
-  )
+    return <h1>Contact Book</h1>
 }
 
 export default Header
